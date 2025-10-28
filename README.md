@@ -35,8 +35,7 @@ Built to replicate enterprise conditions for detection engineering, SIEM develop
 ---
 # 🌐 KotilaSec Homelab Network Topology
 
-This network integrates enterprise-grade routing, segmentation, and monitoring through a **FortiGate 30G** firewall and an **Aruba 2930F** Layer 3 switch.  
-The design mirrors a production-grade K-12 environment with VLAN segmentation, and Hyper-V virtualization on a Dell PowerEdge R640.
+This network integrates enterprise-grade routing, segmentation, and monitoring through a **FortiGate 30G** firewall and an **Aruba 2930F** Layer 3 switch. The design mirrors a production-grade environment with VLAN segmentation, and Hyper-V virtualization on a Dell PowerEdge R640.
 
 ---
 
